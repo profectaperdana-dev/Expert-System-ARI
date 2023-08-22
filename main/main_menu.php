@@ -1,5 +1,5 @@
 <?php
-
+//create menu on sidebar
 $main = $_GET['main'];
 if ($main == 'home'){
 
