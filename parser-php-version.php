@@ -7,7 +7,7 @@
 #	licensing: Public domain, edit and share without permission.
 
 # changelog
-#	2013-09-24 xx:xx:xx - first version
+#	2013-09-24 xx:xx:xx - first version1
 #	2013-09-25 xx:xx:xx - updated with is_mysql_resource() and bugfixes
 #	2013-09-26 19:23:00 - adding some more function wrappers
 #	2013-10-24 23:16:41 - bugfix, mysql_connect used invalid error functions
